@@ -4,7 +4,7 @@
     "@graphql-codegen/typescript-apollo-angular": "1.12.0",
     "@graphql-codegen/typescript-compatibility": "1.12.0",
     "@graphql-codegen/cli": "1.12.0",
-    "@nuxt/config-edge": "2.10.0",
+    "@nuxt/config-edge": "2.10.0-26326094.e9c4bcfe",
     "next": "9.0.0"
    }
 }
